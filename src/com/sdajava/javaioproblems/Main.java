@@ -31,8 +31,8 @@ public class Main {
                     .collect(Collectors.toList());
 
             //players.stream().forEach(System.out::println);
-
-            for (Player p: players) System.out.println(p.yearID);
+            //for (Player p: players) System.out.println(p.yearID);
+            players.forEach(e -> System.out.println(e.yearID));
 
         } catch (IOException err) {
 
