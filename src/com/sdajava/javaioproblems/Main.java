@@ -31,8 +31,8 @@ public class Main {
                     })
                     .collect(Collectors.toList());
 
-           // Map<Integer, List<Player>> grouped = players.stream()
-             //       .collect(Collectors.groupingBy(x -> x.getYearID()));
+            Map<Integer, List<Player>> grouped = players.stream()
+                    .collect(Collectors.groupingBy(x -> x.getYearID()));
 
             Map<Integer, Long> groupedByYear = players
                     .stream()

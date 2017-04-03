@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e6e80b7-630f-4284-bb77-0000e75694a8" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaIOproblems/com/sdajava/javaioproblems/.gitignore" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaIOproblems/com/sdajava/javaioproblems/Main.class" afterPath="$PROJECT_DIR$/out/production/JavaIOproblems/com/sdajava/javaioproblems/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaIOproblems/com/sdajava/javaioproblems/Player.class" afterPath="$PROJECT_DIR$/out/production/JavaIOproblems/com/sdajava/javaioproblems/Player.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/sdajava/javaioproblems/Main.java" afterPath="$PROJECT_DIR$/src/com/sdajava/javaioproblems/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/sdajava/javaioproblems/Player.java" afterPath="$PROJECT_DIR$/src/com/sdajava/javaioproblems/Player.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,8 +18,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/sdajava/javaioproblems/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1038">
-              <caret line="57" column="25" lean-forward="false" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="25" />
+            <state relative-caret-position="206">
+              <caret line="34" column="13" lean-forward="false" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -415,8 +410,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sdajava/javaioproblems/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1038">
-          <caret line="57" column="25" lean-forward="false" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="25" />
+        <state relative-caret-position="206">
+          <caret line="34" column="13" lean-forward="false" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
