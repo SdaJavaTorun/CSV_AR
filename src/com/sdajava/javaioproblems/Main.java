@@ -35,7 +35,7 @@ public class Main {
             players.forEach(e -> System.out.println(e.yearID));
 
         } catch (IOException err) {
-
+            System.out.println("Error: " + err.getMessage());
         }
 
     }
